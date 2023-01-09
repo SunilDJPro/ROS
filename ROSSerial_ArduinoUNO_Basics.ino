@@ -5,6 +5,8 @@
 #define LED 13
 #define BUTTON 6
 
+
+//Updated v0.1.1 fixed Button Press
 ros::NodeHandle nh;
 
 std_msgs::String button_msg;
